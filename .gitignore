@@ -1,0 +1,6 @@
+﻿credentials.json
+audit_database.db
+*.db
+*.xlsx
+__pycache__/
+.pytest_cache/
